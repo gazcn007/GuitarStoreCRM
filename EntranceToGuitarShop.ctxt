@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=EntranceToGuitarShop()
+comment1.params=
+comment1.target=void\ printMessage()
+comment2.params=
+comment2.target=void\ printScanChoice()
+comment3.params=
+comment3.target=void\ printSearchChoice()
+comment4.params=
+comment4.target=void\ printStaticsInfo()
+comment5.params=
+comment5.target=java.lang.String\ input()
+numComments=6
