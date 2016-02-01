@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String[]\ packetInfo()
+comment1.params=str
+comment1.target=void\ fromString(java.lang.String[])
+comment2.params=
+comment2.target=void\ display()
+comment3.params=index
+comment3.target=java.lang.String\ getData(int)
+numComments=4
